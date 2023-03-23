@@ -7,12 +7,139 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Columbia’s endowment—even with its comparatively poor performance when measured up against peer institutions—may come out on top in terms of investment risk and is likely to report high returns this fiscal year, according to a <a href=\"https://www.markovprocesses.com/product/mpi-transparency-lab/\">recent lab</a> launched by the investment analysis company Markov Processes International."
+          },
+          {
+            "type": "text",
+            "value": "The findings follow the shaky 2022 fiscal year in which Columbia <a href=\"https://www.columbiaspectator.com/news/2022/10/13/endowment-suffers-more-than-1b-in-losses-as-columbia-reports-negative-returns/\">lost $1 billion in endowment</a> and reported the worst returns in the Ivy League, suffering a loss of 7.6 percent. But predictions released last week by the MPI Transparency Lab for the 2023 fiscal year based on quarters one and two project Columbia with the third-highest percentage returns in the Ivy League at 0.78 percent, behind only the University of Pennsylvania and Cornell University."
+          },
+          {
+            "type": "text",
+            "value": "MPI estimated that Yale University, which reported the highest returns in percentage across the Ivy League last year, will return 0.54 percent, while Harvard University is expected to have the lowest percentage returns, with a loss of 1.11 percent. In the 2022 fiscal year, which had poor <a href=\"https://www.columbiaspectator.com/news/2022/10/13/endowment-suffers-more-than-1b-in-losses-as-columbia-reports-negative-returns/\">returns across the board</a> following <a href=\"https://www.columbiaspectator.com/news/2021/10/27/columbia-endowment-soars-up-323-percent-to-1435-billion-as-markets-recover-from-covid-19-recession/\">massive gains in 2021</a>, Yale reported a return of 0.8 percent and Harvard reported a loss of 1.8 percent."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "end-fy22fy23.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The endowment’s performance in fiscal year 2022 fit a pattern of poor overall returns compared to its peers and dropped Columbia to the bottom of the list of 10-year average returns for the Ivies. Columbia’s 10-year rolling performance now sits at 8.8 percent, compared to Penn’s 11.1 percent, Yale’s 12.01 percent, and Harvard’s 9.03 percent. In fiscal year 2021, Harvard’s endowment surpassed $50 billion and Princeton’s endowment grew so large that <a href=\"https://www.axios.com/2022/10/04/princeton-endowment-tuition-hedge-fund\">some have said</a> the institution can now fund itself without tuition or grants."
+          },
+          {
+            "type": "text",
+            "value": "The lab also provides estimates for investment attribution, risk, risk versus return, and efficiency. Although Columbia—and most other endowments—only report once a year and do not provide detailed information regarding investment allocation, MPI uses publicly available data to make specific estimates."
+          },
+          {
+            "type": "text",
+            "value": "MPI uses returns-based analysis to come up with detailed estimates, breaking down the endowment reports released by colleges and universities and providing specific insight in an effort to “fill the gaps with transparency,” Michael Markov, founder of MPI, said in an interview with Spectator."
+          },
+          {
+            "type": "text",
+            "value": "“This is purely done based on reverse engineering returns,” Markov said."
+          },
+          {
+            "type": "text",
+            "value": "When considering risk percentage, Columbia has the lowest, meaning the lab estimates that the University generally stands to lose the least in endowment based on investment attribution estimates. According to the lab, Columbia’s endowment has the lowest risk in the Ivy League by 2.8 percentage points at 11.6 percent, below Penn’s 14.4 percent risk. Other endowments show even higher risk, such as Brown University with 21.4 percent, Harvard with 16.4 percent, and Princeton University with 18.5 percent."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "end-rollingrisk.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Results from the lab led MPI analysts to conclude in a January <a href=\"https://www.markovprocesses.com/blog/is-columbias-endowment-performance-at-the-top-or-the-bottom-of-the-ivies-it-depends/\">article</a> that “Columbia may be at the bottom of 10-year performance, but it is doing far better in other metrics, which is important to all of its stakeholders.”"
+          },
+          {
+            "type": "text",
+            "value": "The lab also measures efficiency, a ratio comparing risk and returns, which is calculated using reported returns from the past 10 years and risk estimates from MPI. Columbia’s efficiency, as calculated by MPI, is tied with Princeton for second among the Ivies, only behind Yale."
+          },
+          {
+            "type": "text",
+            "value": "“In the case of Columbia, it’s really not apparent just by performance alone what’s going on,” Markov said. Essentially, Columbia’s endowment excels where others fall short, even though this does not always translate in the small set of numbers released after the end of each fiscal year."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "end-eff.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Notably, the attribution estimates that most of Columbia’s losses from fiscal year 2022 came from emerging equity and U.S. bonds, while the endowment’s investments in private equity were the greatest positive contributors to returns. This lower investment in private equity—and venture capital—explains, in part, the endowment’s differential performance when compared to peer institutions."
+          },
+          {
+            "type": "text",
+            "value": "Results from the lab also show Columbia reaping zero benefits from investments in natural resources during fiscal year 2022. The University <a href=\"https://news.columbia.edu/news/university-announcement-fossil-fuel-investments\">announced</a> a complete divestment from the coal, oil, and natural gas industries in 2021, following Brown and Cornell. Dartmouth College, Harvard, Cornell, and Penn all benefited from natural resource investments in fiscal year 2022 by at least one percent, according to MPI’s estimates."
+          },
+          {
+            "type": "text",
+            "value": "All eight Ivies have previously announced divestment from fossil fuels, including the four that MPI reports as still benefiting from such investments. Possible explanations for these inconsistencies include <a href=\"https://cornellsun.com/2020/05/22/cornell-to-divest-from-fossil-fuels-trustees-vote/\">years-long divestment plans</a> that are still in motion, remaining <a href=\"https://www.thedp.com/article/2022/11/penn-endowment-sustainability-message#:~:text=Penn%20announces%20it%20no%20longer%20holds%20direct%20investments%20in%20fossil%20fuel%20companies,-By%20Jared%20Mitovich&text=Penn%20clarified%20that%20it%20no,about%20its%20fossil%20fuel%20holdings.\">indirect holdings</a> in the fossil fuels industry, and <a href=\"https://news.yale.edu/2021/06/24/yale-sets-new-carbon-reduction-targets-takes-divestment-steps\">different guidelines</a> for endowments regarding investment eligibility."
+          },
+          {
+            "type": "text",
+            "value": "In her fiscal year returns statement from 2021, Kim Lew, CEO of the Columbia Investment Management Company, described the endowment as having a “fundamentally different risk profile and substantially lower allocation to venture capital in particular.” Of the eight Ivies, MPI identifies Columbia as being the only one which had no help from venture capital this past year, while other Ivies ranged from 0.2 percent to 0.43 percent in positive returns due to venture capital allocation."
+          },
+          {
+            "type": "text",
+            "value": "Although the endowment’s estimated lower allocation to private equity and venture capital has seemed to hurt Columbia in the past few years—holding it back from the astonishingly high returns of some peer institutions in fiscal year 2021 and causing some damage in fiscal year 2022—the lower allocation leads to the endowment’s low risk, Markov said. Private equity and venture capital, Markov said, are highly risky investments, and he anticipated negative returns from both categories in the coming quarters."
+          },
+          {
+            "type": "text",
+            "value": "In fiscal year 2022, real estate played a major role in endowment returns, contributing 3.05 percent to Yale’s return—the only Ivy that reported positive for fiscal year 2022—and 2.76 percent to Harvard’s, according to the lab’s estimates. The Transparency Lab estimates that Columbia is the only Ivy to have had zero return from real estate investments, another investment category with high risk."
+          },
+          {
+            "type": "text",
+            "value": "Markov calls on colleges and universities to begin reporting quarterly endowment data, pointing out that Cornell already does this. “Quarterly returns will give you a ton more transparency,” he said."
+          },
+          {
+            "type": "text",
+            "value": "Columbia’s endowment, though sizable, contributes relatively little to the University’s budget when compared to peer institutions. Only 12 percent of Columbia’s annual budget relies on the endowment, compared to Harvard’s 39 percent reliance and Yale’s 33 percent reliance. Columbia compensates with a heavy 22 percent reliance on tuition revenue, made possible in part by the University’s $86,000 sticker price for undergraduates at Columbia College and the School of Engineering and Applied Science."
+          },
+          {
+            "type": "text",
+            "value": "The MPI estimations have not factored in recent bank failures, which include the collapse of Silicon Valley Bank, the most dramatic bank failure since the Great Recession in the late 2000s. The failure is having a serious impact on technology startups in particular, leading to an impact on investments in tech and venture capital."
+          },
+          {
+            "type": "text",
+            "value": "The lab estimates that investment in technology significantly contributed to negative returns across endowments in fiscal year 2022, painting a worrying picture for the near future of such endowments, including Columbia, which MPI estimates lost 0.71 percent endowment to technology investments."
+          },
+          {
+            "type": "text",
+            "value": "According to the <a href=\"https://www.wsj.com/articles/jobs-report-offers-little-to-change-interest-rate-outlook-for-the-fed-2b5bf1d4\">Wall Street Journal</a>, SVB’s failure may have “broader implications” for endowments that have “increased their exposures to venture capital.”"
+          },
+          {
+            "type": "text",
+            "value": "Although the impact of recent bank failures on investments has yet to be quantified, it appears that any harm to endowments may be less severe for Columbia based on estimated venture capital allocation. The University’s lower allocation to venture capital may save it from harm not only caused by market correction, but also by an unprecedented bank collapse that recalls the financial crisis of 2008."
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff writer Shea Vance can be contacted at </i><a href=\"mailto:shea.vance@columbiaspectator.com\"><i>shea.vance@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/sheavance22\"><i>@SheaVance22</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics deputy reporter Diya Nair can be contacted at </i><a href=\"mailto:diya.nair@columbiaspectator.com\"><i>diya.nair@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/sheavance22\"><i>@SheaVance22</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Investment analysis company predicts brighter future for Columbia’s endowment",
+        "date": "March 21, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Shea-Vance/\">Shea Vance</a>",
+        "byline2": "Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Diya-Nair/\">Diya Nair</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1vHRpyKdz9kqEtZn8xiYXZmzeBorkrpoBW6a1jZ7j6-o/edit"
       }
     }
   }
